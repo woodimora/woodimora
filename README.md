@@ -17,4 +17,4 @@ I am constantly trying to learn, and I have the goal of becoming a continuously 
 <br>
 
 ### 👨‍💻Skills   
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c) ![Java Badge](https://img.shields.io/badge/Java-D32D27?style=flat&logo=java) ![Springboot Badge](https://img.shields.io/badge/Springboot-CCFF00?style=flat&logo=springboot) ![Javascript Badge](https://img.shields.io/badge/Javascript-65C2CB?style=flat&logo=javascript) ![CRA Badge](https://img.shields.io/badge/React-4A86CF?style=flat&logo=react)
+![Springboot Badge](https://img.shields.io/badge/Springboot-CCFF00?style=flat&logo=springboot) ![Java Badge](https://img.shields.io/badge/Java-D32D27?style=flat&logo=java) ![Javascript Badge](https://img.shields.io/badge/Javascript-65C2CB?style=flat&logo=javascript) ![CRA Badge](https://img.shields.io/badge/React-4A86CF?style=flat&logo=react) ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
